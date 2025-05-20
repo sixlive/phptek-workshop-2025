@@ -1,0 +1,24 @@
+- summary
+  - title (string)
+  - summary (string)
+  - main_topic (string)
+  - key_points (array)
+    - key_point (string)
+- key_points
+  - document_type (string)
+  - points (array)
+    - point (object)
+      - title (string)
+      - string (content)
+- sentiment
+  - overall_sentiment (enum)
+    - very_negative
+    - negative
+    - neutral
+    - positive
+    - very_postive
+  - sentiment_explanation (string)
+  - emotional_tokens (array)
+    - tone (object)
+      - name (string)
+      - evidence (string)
