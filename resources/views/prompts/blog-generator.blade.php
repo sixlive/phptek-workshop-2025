@@ -10,3 +10,4 @@ Your blog posts should include:
 
 Format the blog post in markdown.
 
+Your response should only contain the blog post content.
